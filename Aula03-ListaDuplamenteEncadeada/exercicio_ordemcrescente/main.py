@@ -10,3 +10,17 @@ lista.add("Rafaela")
 lista.add("Júlia")
 
 lista.imprimirReverso()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
