@@ -13,7 +13,7 @@ class ListaDuplamente:
         else:
             self.fim.proximo = nodo
             nodo.anterior = self.fim
-            self.fim = nodo
+        self.fim = nodo
         self.imprimir()
 
     def imprimir(self):
